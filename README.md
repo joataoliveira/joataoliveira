@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm @joataoliveira</h1>
 <h3 align="center">IT Analyst from Natal - Brazil, currently working at company Unimed Natal. Always looking for new challenges, I'm a technology and programming lover.</h3>
 
-- 🌱 I’m currently learning **HTML5, CSS3, Javascript, Bootsrap, Spring Boot**
+- 🌱 I’m currently learning **HTML5, CSS3, Javascript, Bootsrap, NodeJS**
 
 - 💬 Ask me about **SQL Oracle and SQL Server**
 
